@@ -5,4 +5,4 @@ The smooth pursuit data analysis was done with Python programming.
 2.	Plots generation – 
 Figure 1 and 2 shows the smooth pursuit stimuli. By plotting the pursuit position “Pdeg” and velocity V at each timepoint in “tlist”, the smooth pursuit stimuli show a symmetric path with peaks at 10 degrees for the position and 1 degree/sec for the velocity. The data is without noise as seen by the perfect sinewaves plotted.
 
-![Figure 1 Position (degrees) Vs Time](/figure1.png?raw=true "Title")
+![Figure 1 Position (degrees) Vs Time](/figure1.png)
